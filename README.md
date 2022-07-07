@@ -8,3 +8,4 @@ Your previous searches will be saved in the local storage for ease of access upo
 
 ![Weather app with search bar, jumbotron, and cards](./assets/partial-weather-dashboard.png)
 
+Deployed app: https://victoriadunlap.github.io/Weather-Dahsboard/ 
